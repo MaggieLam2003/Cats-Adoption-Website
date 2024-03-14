@@ -19,4 +19,5 @@ This website is meant to displayed on a desktop. It is a cat adoption website th
 ### Login Information Admin 
 
 **Username**: maggie
+
 **Password**: monkey
